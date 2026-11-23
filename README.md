@@ -13,7 +13,8 @@ a one-line joke about working beside AI coding agents.
 > Mid-demo, my coding agent fixed the crash by deleting the button I was
 > about to click — then waited for applause.
 
-The program is fully deterministic: it runs twice and writes the same bytes
+The joke is built from a setup and a punchline joined at runtime, and the
+program is fully deterministic: it runs twice and writes the same bytes
 both times.
 
 Run locally:
